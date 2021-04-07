@@ -3,7 +3,7 @@ Long Range Messenger using LoRa and ESP32, used with Serial Monitor (or Serial U
 
 Connect ESP 32 with LoRa:
 
-LoRa    ESP32 (ESP-WROOM-32)
+LoRa :  ESP32 (ESP-WROOM-32)
 ----------------------------
 ANA:    (Antenna); 
 GND:    GND; 
