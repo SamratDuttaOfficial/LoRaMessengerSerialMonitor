@@ -90,9 +90,6 @@ void loop() {
     delay(100); //this delay is important. otherwise it won't check for Serial.available after some time and the whole thing stops.
     //Serial.println("Listening...");
   }
-  //other ways you can use the delay to keep this runnning.
-  //delay(100);
-  //else delay(1);
   onReceive(LoRa.parsePacket());
 }
 
